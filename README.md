@@ -10,7 +10,7 @@ Year Casualties
 
 2018 167 (civilians including 48(Children) killed)
 
-This project is focused on saving and moving away innocent children(harmless) from critical situations like war_zones using deep learning and computer vision techniques.
+This project is focused on saving by identifying innocent children(harmless) from critical situations like war_zones using deep learning and computer vision techniques.A swarm of drones can help for making this possible.
 
 The training dataset for deep learning task consists of images of two classification
 
