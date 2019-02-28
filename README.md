@@ -20,5 +20,7 @@ The training dataset for deep learning task consists of images of two classifica
 
 Keras is the module used for deep learning algorithm implementation and is trained for 50 epoches.
 
-![Saving_Children/children.PNG]
+Result for some test images is shown below
+
+![children](https://user-images.githubusercontent.com/48018142/53574135-fb5ebf80-3b94-11e9-8e9f-717126e3a884.PNG)
       
